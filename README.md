@@ -1,2 +1,37 @@
 # Questoes-teste-2
-quetões de teste
+quetões de teste 
+Resposta das questões 4 e 5:
+4) a) 1, 3, 5, 7, ___
+    Esta sequência é formada por números ímpares consecutivos.
+    Próximo número: 9.
+b) 2, 4, 8, 16, 32, 64, ____
+    Esta sequência segue uma progressão geométrica onde cada número é o dobro do anterior.
+    Próximo número: 128.
+c) 0, 1, 4, 9, 16, 25, 36, ____
+    Esta sequência é formada pelos quadrados dos números inteiros: 02,12,22,32,42,52,6202,12,22,32,42,52,62.
+    Próximo número: 72=4972=49.
+d) 4, 16, 36, 64, ____
+    Esta sequência é formada pelos quadrados dos números pares: 22,42,62,8222,42,62,82.
+    Próximo número: 102=100102=100.
+e) 1, 1, 2, 3, 5, 8, ____
+    Esta sequência é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores.
+    Próximo número: 5+8=135+8=13.
+f) 2, 10, 12, 16, 17, 18, 19, ____
+    A sequência alterna entre um salto maior e números consecutivos: 2→102→10 (salto), 10→1210→12 (consecutivo), 12→1612→16 (salto), 16→17→18→1916→17→18→19 (consecutivos).
+    Próximo número: 20 (seguindo os números consecutivos após 19).
+Resumo dos próximos números:
+a) 9
+b) 128
+c) 49
+d) 100
+e) 13
+f) 20
+
+5)Ligue o primeiro interruptor (Interruptor 1) e deixe ligado por alguns minutos.
+    A ideia aqui é que a lâmpada conectada a esse interruptor aqueça durante o tempo em que está ligada.
+Depois de alguns minutos, desligue o primeiro interruptor (Interruptor 1) e ligue o segundo interruptor (Interruptor 2).
+    Deixe o segundo interruptor ligado.
+Agora vá para a sala das lâmpadas:
+    Lâmpada acesa: Esta lâmpada está conectada ao Interruptor 2, já que ele foi o último a ser ligado.
+    Lâmpada apagada, mas quente: Esta lâmpada está conectada ao Interruptor 1, pois ela esteve ligada por alguns minutos, mas foi desligada antes de você ir até a sala.
+    Lâmpada apagada e fria: Esta lâmpada está conectada ao Interruptor 3, pois nunca foi ligada.
